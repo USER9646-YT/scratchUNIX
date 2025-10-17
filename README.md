@@ -7,5 +7,5 @@ This is a UNIX-like operating system running on Turbowarp, it uses rxFS, and man
 ## WHAT TO DO
 New Text engine uses IFrame and HTML, this means, a security warning will pop up in Turbowarp. Run without sandbox, and allow it to run, as its neccessary for this OS to function properly.
 
-## License
-This uses the GNU GPL.
+## OS style
+This uses a modern look.
